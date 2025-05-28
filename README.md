@@ -8,13 +8,13 @@ A simple command-line interface (CLI) application for managing a to-do list, wri
 - Toggle a task's status (done/undone) -> python todo.py toggle <task_number>
 - Delete a task -> python todo.py delete <task_number>
 ## Example
-$ python todo.py add "Write a README file"
+$ python todo.py add "Write a README file"  
 Task added: Write a README file
 
 $ python todo.py list
 1. '[ ]' Write a README file
 
-$ python todo.py toggle 1
+$ python todo.py toggle 1  
 Task 1 toggled.
 
 $ python todo.py list
