@@ -18,4 +18,6 @@ $ python todo.py toggle 1
 Task 1 toggled.
 
 $ python todo.py list
+'''
 1. [x] Write a README file
+'''
