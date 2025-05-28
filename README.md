@@ -12,12 +12,10 @@ $ python todo.py add "Write a README file"
 Task added: Write a README file
 
 $ python todo.py list
-1. [ ] Write a README file
+1. "[ ]" Write a README file
 
 $ python todo.py toggle 1
 Task 1 toggled.
 
 $ python todo.py list
-'''
-1. [x] Write a README file
-'''
+1. "[x]" Write a README file
